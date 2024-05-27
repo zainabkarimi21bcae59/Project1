@@ -1,5 +1,5 @@
-a=8
-b=4
-d=7
-c=a+b=d
+a=2
+b=3
+d=5
+c=a+b+d
 print c
